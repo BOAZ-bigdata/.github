@@ -1,12 +1,12 @@
 
 ##  
 
-<h1 align="center">국내 최초 대학생 연합 빅데이터 동아리 <span style="color: #0000FF">BOAZ</span>를 소개합니다</h1>
-
+<h1 align="center">국내 최초 대학생 연합 빅데이터 동아리 <span style="color:blue">BOAZ</span>를 소개합니다</h1>
+</br></br></br>
 
 <h3 align="center">
   
-<span style="color: #0000FF">BOAZ</span>는 데이터로부터 긍정적인 가치를 이끌어
+<span style="color:blue">BOAZ</span>는 데이터로부터 긍정적인 가치를 이끌어
   
 </br>
 
@@ -14,13 +14,13 @@
 
 </br>
 
-<span style="color: #0000FF">BOAZ</span>는 다양한 전공을 가진 학생들로 구성된 가치관과 시각의 집합소입니다.
+<span style="color:blue">BOAZ</span>는 다양한 전공을 가진 학생들로 구성된 가치관과 시각의 집합소입니다.
 
 </h3>
 
 
 
-</br>
+</br></br>
 
 
 
