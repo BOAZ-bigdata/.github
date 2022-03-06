@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome to BOAZ!&fontAlign=80&fontAlignY=40&color=gradient)
 
-##  
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome&fontAlign=80&fontAlignY=40&color=gradient)
+
 
 <h1 align="center">국내 최초 대학생 연합 빅데이터 동아리 <span style="color:blue">BOAZ</span>를 소개합니다</h1>
 </br></br></br>
