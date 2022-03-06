@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient)
 
 
 <h1 align="center">국내 최초 대학생 연합 빅데이터 동아리 <span style="color:blue">BOAZ</span>를 소개합니다</h1>
