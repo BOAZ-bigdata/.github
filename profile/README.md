@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient12)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome to BOAZ!&fontAlign=80&fontAlignY=40&color=gradient)
 
 ##  
 
