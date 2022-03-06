@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=BOAZ)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=BOAZ&color=0:b4e5f5,100:2ba8e0)
 
 
 <h1 align="center">국내 최초 대학생 연합 빅데이터 동아리 <span style="color:blue">BOAZ</span>를 소개합니다</h1>
@@ -26,7 +26,7 @@
 
 
 
-<h4 align="center"><b>📞📫 How to reach us</b></h3>
+<h2 align="center"><b>📞📫 How to reach us</b></h2>
 
 <p align="center">
 <a href="mailto:boaz.bigdata@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:boaz.bigdata@gmail.com"/></a>&nbsp 
@@ -42,9 +42,10 @@
  
 </p>
 
+<!-- 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBOAZ-bigdata&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-
+ -->
 
 
 
