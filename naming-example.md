@@ -1,6 +1,6 @@
 # Repository Naming Rule
 * BOAZ-bigdata organization 내 레포지토리 생성 시 다음의 네이밍 규칙을 적용합니다.
-  + 생성된 이후에도 **Settings > General**에서 수정가능합니다.
+  + 생성된 이후에도 **Settings > General**에서 수정 가능합니다.
 * 네이밍 규칙이 미적용된 레포지토리의 이름은 통보없이 수정될 수 있습니다.
 
 </br>
