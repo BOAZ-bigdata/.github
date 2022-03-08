@@ -36,6 +36,6 @@ ex) Re View the Review(15)
 ## ETCs
 - 사용 라이브러리, 버전, ppt 표지 등 자유롭게 작성해주시길 바랍니다.
 
-<br/>
+<br/><br/>
 
 참고: [마크다운 사용법 예시](https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/)
