@@ -26,7 +26,7 @@
 
 
 
-<h2 align="center"><b>📞📫 How to reach us</b></h2>
+## 📞📫 How to reach us
 
 <p align="center">
 <a href="mailto:boaz.bigdata@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:boaz.bigdata@gmail.com"/></a>&nbsp 
