@@ -5,8 +5,6 @@
 <h1 align="center">국내 최초 대학생 연합 빅데이터 동아리 <span style="color:blue">BOAZ</span>를 소개합니다</h1>
 </br></br></br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBOAZ-bigdata&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
 
 <h3 align="center">
   
@@ -60,6 +58,8 @@
 
 
 
-
-
-
+<p align="right">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBOAZ-bigdata&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</p>
