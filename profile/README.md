@@ -42,11 +42,6 @@
  
 </p>
 
----
-
-## BOAZ-bigdata Organization 이용 규칙
-
-.github/readme-example.md를 참고해주세요.
 
 
 <!-- 
