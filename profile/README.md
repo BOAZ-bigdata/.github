@@ -5,6 +5,9 @@
 <h1 align="center">국내 최초 대학생 연합 빅데이터 동아리 <span style="color:blue">BOAZ</span>를 소개합니다</h1>
 </br></br></br>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBOAZ-bigdata&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+
 <h3 align="center">
   
 <span style="color:blue">BOAZ</span>는 데이터로부터 긍정적인 가치를 이끌어
@@ -49,7 +52,6 @@
 1. 레포지토리 네이밍 규칙
 .github/naming-example.md를 참고해주세요.
 
-<br/>
 
 2. 리드미 작성 규칙
 .github/readme-example.md를 참고해주세요.
@@ -57,10 +59,7 @@
 <br/><br/>
 
 
-<!-- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBOAZ-bigdata&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
- -->
+
 
 
 
