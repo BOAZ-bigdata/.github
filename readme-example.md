@@ -30,6 +30,10 @@ ex) 22-1_MMStudy_Engineering_A
 ```
 <br/>
 
+# 리드미 템플릿
+
+<br/>
+
 ## Usage
 - [X] 컨퍼런스
 - [ ] 미니프로젝트
