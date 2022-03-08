@@ -20,8 +20,6 @@ ex) 18_MiniProject_Bigproject
 
 ## 스터디
 
-</br>
-
 ### 일반 스터디
 `연도-학기_Study_스터디명` 의 형태로 표기하는 것을 기본으로 합니다.
 ```
@@ -29,7 +27,7 @@ ex) 22-1_Study_cs231n
 ```
 </br>
 
-## 멘토링 스터디
+### 멘토링 스터디
 `연도-학기_MMStudy_부문_조` 의 형태로 표기하는 것을 기본으로 합니다.
 ```
 ex) 22-1_MMStudy_Engineering_A
