@@ -1,7 +1,6 @@
 # Project name (회차/기수/연도)
 ex) Re View the Review(15)
 - BOAZ-bigdata Organization 내 레포지토리 업로드 시 다음의 규칙을 적용하오니, 각 용도별로 레포지토리 이름 규칙에 따라 작성해주시길 바랍니다.
-- 네이밍 규칙이 미적용된 레포지토리의 이름은 통보없이 수정될 수 있습니다.
 
 </br>
 
