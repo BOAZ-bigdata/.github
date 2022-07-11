@@ -7,9 +7,9 @@
 
 ## 세션
 `기수부문_BASE/ADV주차_세션명' 의 형태로 표기하는 것을 기본으로 합니다.
-부문은 'Vis/Anal/Engi' 로 작성합니다.
+부문은 'Visualization/Analysis/Engineering' 로 작성합니다.
 ```
-ex) 19Engi_BASE1_Linux-Basic
+ex) 19Engineering_BASE1_Linux-Basic
 ```
 </br>
 
