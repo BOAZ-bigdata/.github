@@ -1,5 +1,5 @@
 # Project name (회차/기수/연도/부문) 
-ex) Linux Basic(engi19_BASE), Re View the Review(con15)
+ex) Linux Basic(engineering19_BASE), Re View the Review(con15)
 - 각 용도별로 레포지토리 이름 규칙에 따라 선택하여 작성해주시길 바랍니다.
   * 세션: 부문+기수_BASE/ADV
   * 컨퍼런스: con+회차
